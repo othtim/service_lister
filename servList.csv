@@ -1,0 +1,36 @@
+172.22.119.139|43|dn42 whois - whois.fritz.dn42|0|4844|12705|whois|3|dn42|403ab9fb8123897fa612923230193604
+10.103.252.85|119|alt.*, comp.*, humanities.*, misc.*, news.*, rec.*, sci.*, soc.*, talk.*, hack.*|0|5047|12956|usenet|7|yojimbo.hack|cbd025093d59f1d5de1393e04e4126cc
+172.22.166.3|119|dn42 UCIS usenet server|1|6776|12702|usenet|3|dn42|403ab9fb8123897fa612923230193604
+10.103.252.2|3128|Hosted on reputable VPS Please use RESPONSIBLY. This is not a Tor node. I will shut down this squid proxy if I approach monthly traffic quotas|0|4431|12956|proxy|9|openfly|32473d8f7204ce55f1036663cd2e7b83
+172.31.0.120|3128|squs proxy - Austria. Please use responsibly.|1|7391|12717|proxy|3|squs|60ca2da7d8f841b5d32f730848a7c04a
+172.22.24.1|6697|irc.hackint.dn42|1|6835|12702|ircs|1|dn42|d41d8cd98f00b204e9800998ecf8427e
+172.31.98.1|6667|irc.hackint.hack|0|6757|12723|irc|3|hackint|63b545afa9adffae69b0d0576e5ee9e8
+10.103.252.110|6667|irc.anonnet.hack|0|5028|12956|irc|2|anonnet|33b623ac0389a6eb2a23d39f8f96efeb
+172.31.0.67|6523|collaborative editor. client - gobby.  experimental - certificate broken|1|5821|11573|infinoted|29|nadir|d41d8cd98f00b204e9800998ecf8427e
+10.103.252.137|80|hacking.allowed.hack website|0|4118|12723|http|9|hacking allowed|20c80e71c2f217c481820219ebe0afc4
+172.31.0.67|8080|http://172.31.0.67:8080/pnopaste/ - Perl Nopaste Service|1|6980|12744|http|8|nadir|d41d8cd98f00b204e9800998ecf8427e
+172.31.2.1|80|overview picture of chaosvpn connected nodes: http://vpnhub1-intern.hamburg.ccc.de/chaosvpn.png|1|5757|11551|http|5|ccchamburg|4f8dd9bcd21be28dcc09b57bf5e51e77
+172.23.174.1|80|dn42 BGP path visualizations|0|6020|12703|http|4|dn42|403ab9fb8123897fa612923230193604
+10.11.0.17|80|Freifunk Network Home Page|0|4712|12702|http|4|freifunk|e7ba7caf9869022cda2c046365c07d9f
+213.238.61.175|80|www.hackint.org|1|6234|11553|http|4|hackint|63b545afa9adffae69b0d0576e5ee9e8
+213.238.61.139|80|elmarlecher.de|1|7383|12706|http|4||d41d8cd98f00b204e9800998ecf8427e
+172.22.24.1|80|spaceboyz.net|1|6835|12706|http|4|hackint|63b545afa9adffae69b0d0576e5ee9e8
+172.31.17.1|80|CCC Hamburg|1|7374|12709|http|3|ccchamburg|4f8dd9bcd21be28dcc09b57bf5e51e77
+213.238.61.136|80|datensumpf.de - a blog|1|7392|12708|http|3|mcfly|a5d01e64475d026f8ca01ff35dd3db3c
+172.22.42.2|80|http fileserver|1|4948|10722|http|3|dn42|403ab9fb8123897fa612923230193604
+176.9.52.58|80|daily.sdinet.de - Haegars Daily|1|6199|11549|http|2|haegar|2887d9992a39de8401b1ceea0821d114
+172.23.184.98|80|dn42 visualizations - BGP and address blocks|0|4844|11219|http|2|dn42|d41d8cd98f00b204e9800998ecf8427e
+10.100.20.1|80|ATXHS Router|1|7292|12956|http|2|atx2600|d41d8cd98f00b204e9800998ecf8427e
+172.23.184.1|80|Search engine for dn42 - http://172.23.184.1/search.cgi|0|5157|11219|http|2|dn42|d41d8cd98f00b204e9800998ecf8427e
+172.22.192.5|80|internal.dn42 - dn42 homepage|1|6813|12704|http|2|dn42|403ab9fb8123897fa612923230193604
+172.31.38.1|80|vpn.hackbbs.org|0|5647|11548|http|1|hackbbs|c967b56c32a73cf716b20e1128c2487b
+172.31.0.59|80|http://social.weird.hack - Social Networking Installation running friendica|1|1127|5084|http|1|redapple|e80ef33ba19cd1e8680b2f7d99beea30
+172.23.184.124|80|dn42 visualizations - BGP and address blocks|0|104|12705|http|0|dn42|403ab9fb8123897fa612923230193604
+10.103.252.137|21|40GB of public FTP and nfs share.|0|4113|12723|ftp|4|hacking allowed|20c80e71c2f217c481820219ebe0afc4
+10.11.10.30|21|BG23 public files|0|4705|12703|ftp|2|freifunk|e7ba7caf9869022cda2c046365c07d9f
+172.22.225.15|21|public ftp 3TB adsl|0|496|4608|ftp|2|dn42|d41d8cd98f00b204e9800998ecf8427e
+10.101.0.3|21|Malware FTP|1|4575|10896|ftp|0|UAS|d41d8cd98f00b204e9800998ecf8427e
+172.31.0.5|53|.hack DNS server|1|7642|12956|dns|13||636c0dec441f0a2a4afe6a15648b23ff
+172.22.0.53|53|dn42 DNS server|1|3336|12702|dns|5|dn42|403ab9fb8123897fa612923230193604
+172.31.0.111|5222|XMPP Domain chaoshackers.org - register at http://xmpp.weird.hack - Infos http://www.weird.hack/blog/xmpp|1|3524|7485|XMPP|2|redapple|080bc4140c2b091d875666ccfe88b681
+10.103.252.171|80|http://ifconfig.hack a whats my ip for chaosvpn|0|776|5115||2|pronto|d41d8cd98f00b204e9800998ecf8427e
