@@ -1,6 +1,10 @@
-	
-#WWWROOT = /var/www/serv/
+#path where application is installed
+APPROOT = /home/chaosvpn_user/cvswork/servup/
+
+#path where serv.php is
 WWW = /var/www/cvpn/
+
+JOBFILE = #!/bin/sh\n/usr/bin/python 
 
 install:
 
@@ -14,6 +18,10 @@ install:
 	chmod -R 755 ${WWW}/ui.css
 	chmod -R 744 ${WWW}/img/
 	
+	@echo ${JOBFILE}serv.py ${APPROOT}servList.csv ${APPROOT}servList.csv > ${APPROOT}job.sh
+
+
+
 clean:
 	rm ${WWW}/serv.php
 	rm ${WWW}/ui.css
